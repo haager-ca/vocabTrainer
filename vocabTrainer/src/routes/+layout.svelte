@@ -1,6 +1,5 @@
 <script>
 	import '../app.scss'
-	import favicon from './favicon.png'
 	import { page } from '$app/stores';
 </script>
 <style>
