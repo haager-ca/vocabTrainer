@@ -7,14 +7,22 @@ async function main() {
     console.log(`Start seeding...`)
 
     for (const p of vocData) {
-        const vocabulary = await prisma.voc.create({
-            data: {
-                vocabulary: p.vocabulary,
-                translation: p.translation,
-                language: p.language
-            }
+        const isDublicate = await prisma.voc.findUnique({
+          where : {
+            vocabulary: p.vocabulary,
+          },
         })
-        console.log(`Created vocabulary with id: ${vocabulary.id}`)
+
+        if (!isDublicate) {
+          const vocabulary = await prisma.voc.create({
+              data: {
+                  vocabulary: p.vocabulary,
+                  translation: p.translation,
+                  language: p.language
+              }
+          })
+          console.log(`Created vocabulary with id: ${vocabulary.id}`)
+        }
     }
     console.log(`Seeding finished`)
 }

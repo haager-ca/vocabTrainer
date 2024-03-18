@@ -1,592 +1,427 @@
 [
-  {
-      "vocabulary": "the",
-      "translation": "der, die, das",
-      "language": "English"
-  },
-  {
-      "vocabulary": "be",
-      "translation": "sein",
-      "language": "English"
-  },
-  {
-      "vocabulary": "to",
-      "translation": "zu, nach, an",
-      "language": "English"
-  },
-  {
-      "vocabulary": "of",
-      "translation": "von",
-      "language": "English"
-  },
-  {
-      "vocabulary": "and",
-      "translation": "und",
-      "language": "English"
-  },
-  {
-      "vocabulary": "a",
-      "translation": "ein, eine",
-      "language": "English"
-  },
-  {
-      "vocabulary": "in",
-      "translation": "in",
-      "language": "English"
-  },
-  {
-      "vocabulary": "that",
-      "translation": "dass",
-      "language": "English"
-  },
-  {
-      "vocabulary": "have",
-      "translation": "haben",
-      "language": "English"
-  },
-  {
-      "vocabulary": "I",
-      "translation": "ich",
-      "language": "English"
-  },
-  {
-      "vocabulary": "it",
-      "translation": "es",
-      "language": "English"
-  },
-  {
-      "vocabulary": "for",
-      "translation": "für",
-      "language": "English"
-  },
-  {
-      "vocabulary": "not",
-      "translation": "nicht",
-      "language": "English"
-  },
-  {
-      "vocabulary": "on",
-      "translation": "auf",
-      "language": "English"
-  },
-  {
-      "vocabulary": "with",
-      "translation": "mit",
-      "language": "English"
-  },
-  {
-      "vocabulary": "he",
-      "translation": "er",
-      "language": "English"
-  },
-  {
-      "vocabulary": "as",
-      "translation": "wie, als",
-      "language": "English"
-  },
-  {
-      "vocabulary": "you",
-      "translation": "du, Sie",
-      "language": "English"
-  },
-  {
-      "vocabulary": "do",
-      "translation": "tun",
-      "language": "English"
-  },
-  {
-      "vocabulary": "at",
-      "translation": "bei",
-      "language": "English"
-  },
-  {
-      "vocabulary": "this",
-      "translation": "dies",
-      "language": "English"
-  },
-  {
-      "vocabulary": "but",
-      "translation": "aber",
-      "language": "English"
-  },
-  {
-      "vocabulary": "his",
-      "translation": "sein (männlich)",
-      "language": "English"
-  },
-  {
-      "vocabulary": "by",
-      "translation": "durch",
-      "language": "English"
-  },
-  {
-      "vocabulary": "from",
-      "translation": "von",
-      "language": "English"
-  },
-  {
-      "vocabulary": "they",
-      "translation": "sie",
-      "language": "English"
-  },
-  {
-      "vocabulary": "we",
-      "translation": "wir",
-      "language": "English"
-  },
-  {
-      "vocabulary": "say",
-      "translation": "sagen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "her",
-      "translation": "ihr",
-      "language": "English"
-  },
-  {
-      "vocabulary": "she",
-      "translation": "sie (weiblich)",
-      "language": "English"
-  },
-  {
-      "vocabulary": "or",
-      "translation": "oder",
-      "language": "English"
-  },
-  {
-      "vocabulary": "an",
-      "translation": "ein, eine",
-      "language": "English"
-  },
-  {
-      "vocabulary": "will",
-      "translation": "werden",
-      "language": "English"
-  },
-  {
-      "vocabulary": "my",
-      "translation": "mein",
-      "language": "English"
-  },
-  {
-      "vocabulary": "one",
-      "translation": "eins",
-      "language": "English"
-  },
-  {
-      "vocabulary": "all",
-      "translation": "alle",
-      "language": "English"
-  },
-  {
-      "vocabulary": "would",
-      "translation": "würde",
-      "language": "English"
-  },
-  {
-      "vocabulary": "there",
-      "translation": "da, dort",
-      "language": "English"
-  },
-  {
-      "vocabulary": "their",
-      "translation": "ihr",
-      "language": "English"
-  },
-  {
-      "vocabulary": "what",
-      "translation": "was",
-      "language": "English"
-  },
-  {
-      "vocabulary": "so",
-      "translation": "so",
-      "language": "English"
-  },
-  {
-      "vocabulary": "up",
-      "translation": "hoch",
-      "language": "English"
-  },
-  {
-      "vocabulary": "out",
-      "translation": "draußen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "if",
-      "translation": "wenn",
-      "language": "English"
-  },
-  {
-      "vocabulary": "about",
-      "translation": "über",
-      "language": "English"
-  },
-  {
-      "vocabulary": "who",
-      "translation": "wer",
-      "language": "English"
-  },
-  {
-      "vocabulary": "get",
-      "translation": "bekommen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "which",
-      "translation": "welche(r,s)",
-      "language": "English"
-  },
-  {
-      "vocabulary": "go",
-      "translation": "gehen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "me",
-      "translation": "mich",
-      "language": "English"
-  },
-  {
-      "vocabulary": "when",
-      "translation": "wann",
-      "language": "English"
-  },
-  {
-      "vocabulary": "make",
-      "translation": "machen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "can",
-      "translation": "können",
-      "language": "English"
-  },
-  {
-      "vocabulary": "like",
-      "translation": "mögen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "time",
-      "translation": "Zeit",
-      "language": "English"
-  },
-  {
-      "vocabulary": "no",
-      "translation": "nein",
-      "language": "English"
-  },
-  {
-      "vocabulary": "just",
-      "translation": "nur, gerade",
-      "language": "English"
-  },
-  {
-      "vocabulary": "him",
-      "translation": "ihn",
-      "language": "English"
-  },
-  {
-      "vocabulary": "know",
-      "translation": "wissen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "take",
-      "translation": "nehmen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "people",
-      "translation": "Leute",
-      "language": "English"
-  },
-  {
-      "vocabulary": "into",
-      "translation": "in, hinein",
-      "language": "English"
-  },
-  {
-      "vocabulary": "year",
-      "translation": "Jahr",
-      "language": "English"
-  },
-  {
-      "vocabulary": "your",
-      "translation": "dein",
-      "language": "English"
-  },
-  {
-      "vocabulary": "good",
-      "translation": "gut",
-      "language": "English"
-  },
-  {
-      "vocabulary": "some",
-      "translation": "einige",
-      "language": "English"
-  },
-  {
-      "vocabulary": "could",
-      "translation": "könnte",
-      "language": "English"
-  },
-  {
-      "vocabulary": "them",
-      "translation": "sie",
-      "language": "English"
-  },
-  {
-      "vocabulary": "see",
-      "translation": "sehen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "other",
-      "translation": "andere",
-      "language": "English"
-  },
-  {
-      "vocabulary": "than",
-      "translation": "als, wie",
-      "language": "English"
-  },
-  {
-      "vocabulary": "then",
-      "translation": "dann",
-      "language": "English"
-  },
-  {
-      "vocabulary": "now",
-      "translation": "jetzt",
-      "language": "English"
-  },
-  {
-      "vocabulary": "look",
-      "translation": "sehen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "only",
-      "translation": "nur",
-      "language": "English"
-  },
-  {
-      "vocabulary": "come",
-      "translation": "kommen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "its",
-      "translation": "seine, ihre, ihr",
-      "language": "English"
-  },
-  {
-      "vocabulary": "over",
-      "translation": "über",
-      "language": "English"
-  },
-  {
-      "vocabulary": "think",
-      "translation": "denken",
-      "language": "English"
-  },
-  {
-      "vocabulary": "also",
-      "translation": "auch",
-      "language": "English"
-  },
-  {
-      "vocabulary": "back",
-      "translation": "zurück",
-      "language": "English"
-  },
-  {
-      "vocabulary": "after",
-      "translation": "nach, nachdem",
-      "language": "English"
-  },
-  {
-      "vocabulary": "use",
-      "translation": "verwenden",
-      "language": "English"
-  },
-  {
-      "vocabulary": "two",
-      "translation": "zwei",
-      "language": "English"
-  },
-  {
-      "vocabulary": "how",
-      "translation": "wie",
-      "language": "English"
-  },
-  {
-      "vocabulary": "our",
-      "translation": "unser",
-      "language": "English"
-  },
-  {
-      "vocabulary": "work",
-      "translation": "Arbeit",
-      "language": "English"
-  },
-  {
-      "vocabulary": "first",
-      "translation": "erste(r,s)",
-      "language": "English"
-  },
-  {
-      "vocabulary": "well",
-      "translation": "gut",
-      "language": "English"
-  },
-  {
-      "vocabulary": "way",
-      "translation": "Weg, Art",
-      "language": "English"
-  },
-  {
-      "vocabulary": "even",
-      "translation": "sogar, selbst",
-      "language": "English"
-  },
-  {
-      "vocabulary": "new",
-      "translation": "neu",
-      "language": "English"
-  },
-  {
-      "vocabulary": "want",
-      "translation": "wollen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "because",
-      "translation": "weil",
-      "language": "English"
-  },
-  {
-      "vocabulary": "any",
-      "translation": "irgendein(e)",
-      "language": "English"
-  },
-  {
-      "vocabulary": "these",
-      "translation": "diese",
-      "language": "English"
-  },
-  {
-      "vocabulary": "give",
-      "translation": "geben",
-      "language": "English"
-  },
-  {
-      "vocabulary": "day",
-      "translation": "Tag",
-      "language": "English"
-  },
-  {
-      "vocabulary": "most",
-      "translation": "meisten",
-      "language": "English"
-  },
-  {
-      "vocabulary": "us",
-      "translation": "uns",
-      "language": "English"
-  },
-  {
-      "vocabulary": "made",
-      "translation": "gemacht",
-      "language": "English"
-  },
-  {
-      "vocabulary": "very",
-      "translation": "sehr",
-      "language": "English"
-  },
-  {
-      "vocabulary": "many",
-      "translation": "viele",
-      "language": "English"
-  },
-  {
-      "vocabulary": "find",
-      "translation": "finden",
-      "language": "English"
-  },
-  {
-      "vocabulary": "here",
-      "translation": "hier",
-      "language": "English"
-  },
-  {
-      "vocabulary": "thing",
-      "translation": "Sache",
-      "language": "English"
-  },
-  {
-      "vocabulary": "give",
-      "translation": "geben",
-      "language": "English"
-  },
-  {
-      "vocabulary": "hand",
-      "translation": "Hand",
-      "language": "English"
-  },
-  {
-      "vocabulary": "take",
-      "translation": "nehmen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "go",
-      "translation": "gehen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "just",
-      "translation": "nur, gerade",
-      "language": "English"
-  },
-  {
-      "vocabulary": "come",
-      "translation": "kommen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "long",
-      "translation": "lang",
-      "language": "English"
-  },
-  {
-      "vocabulary": "always",
-      "translation": "immer",
-      "language": "English"
-  },
-  {
-      "vocabulary": "know",
-      "translation": "wissen",
-      "language": "English"
-  },
-  {
-      "vocabulary": "last",
-      "translation": "letzte(r,s)",
-      "language": "English"
-  },
-  {
-      "vocabulary": "never",
-      "translation": "nie",
-      "language": "English"
-  },
-  {
-      "vocabulary": "leave",
-      "translation": "verlassen",
-      "language": "English"
-  }
+    {
+        "vocabulary": "apple",
+        "translation": "Apfel",
+        "language": "English"
+    },
+    {
+        "vocabulary": "arrive",
+        "translation": "ankommen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "ask",
+        "translation": "fragen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "beautiful",
+        "translation": "schön",
+        "language": "English"
+    },
+    {
+        "vocabulary": "begin",
+        "translation": "beginnen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "believe",
+        "translation": "glauben",
+        "language": "English"
+    },
+    {
+        "vocabulary": "big",
+        "translation": "groß",
+        "language": "English"
+    },
+    {
+        "vocabulary": "break",
+        "translation": "brechen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "buy",
+        "translation": "kaufen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "call",
+        "translation": "anrufen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "carry",
+        "translation": "tragen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "change",
+        "translation": "ändern",
+        "language": "English"
+    },
+    {
+        "vocabulary": "check",
+        "translation": "überprüfen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "choose",
+        "translation": "wählen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "clean",
+        "translation": "sauber",
+        "language": "English"
+    },
+    {
+        "vocabulary": "close",
+        "translation": "schließen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "come",
+        "translation": "kommen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "cook",
+        "translation": "kochen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "cry",
+        "translation": "weinen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "dance",
+        "translation": "tanzen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "decide",
+        "translation": "entscheiden",
+        "language": "English"
+    },
+    {
+        "vocabulary": "do",
+        "translation": "machen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "drive",
+        "translation": "fahren",
+        "language": "English"
+    },
+    {
+        "vocabulary": "eat",
+        "translation": "essen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "enjoy",
+        "translation": "genießen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "explain",
+        "translation": "erklären",
+        "language": "English"
+    },
+    {
+        "vocabulary": "feel",
+        "translation": "fühlen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "find",
+        "translation": "finden",
+        "language": "English"
+    },
+    {
+        "vocabulary": "finish",
+        "translation": "beenden",
+        "language": "English"
+    },
+    {
+        "vocabulary": "forget",
+        "translation": "vergessen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "get",
+        "translation": "bekommen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "give",
+        "translation": "geben",
+        "language": "English"
+    },
+    {
+        "vocabulary": "go",
+        "translation": "gehen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "have",
+        "translation": "haben",
+        "language": "English"
+    },
+    {
+        "vocabulary": "help",
+        "translation": "helfen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "hit",
+        "translation": "treffen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "hope",
+        "translation": "hoffen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "jump",
+        "translation": "springen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "keep",
+        "translation": "behalten",
+        "language": "English"
+    },
+    {
+        "vocabulary": "know",
+        "translation": "wissen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "learn",
+        "translation": "lernen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "leave",
+        "translation": "verlassen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "like",
+        "translation": "mögen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "listen",
+        "translation": "hören",
+        "language": "English"
+    },
+    {
+        "vocabulary": "live",
+        "translation": "leben",
+        "language": "English"
+    },
+    {
+        "vocabulary": "look",
+        "translation": "schauen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "love",
+        "translation": "lieben",
+        "language": "English"
+    },
+    {
+        "vocabulary": "make",
+        "translation": "machen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "meet",
+        "translation": "treffen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "move",
+        "translation": "bewegen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "need",
+        "translation": "brauchen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "open",
+        "translation": "öffnen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "play",
+        "translation": "spielen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "read",
+        "translation": "lesen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "remember",
+        "translation": "erinnern",
+        "language": "English"
+    },
+    {
+        "vocabulary": "run",
+        "translation": "rennen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "say",
+        "translation": "sagen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "see",
+        "translation": "sehen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "sell",
+        "translation": "verkaufen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "send",
+        "translation": "schicken",
+        "language": "English"
+    },
+    {
+        "vocabulary": "show",
+        "translation": "zeigen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "sing",
+        "translation": "singen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "sit",
+        "translation": "sitzen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "sleep",
+        "translation": "schlafen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "smell",
+        "translation": "riechen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "speak",
+        "translation": "sprechen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "stand",
+        "translation": "stehen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "start",
+        "translation": "beginnen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "stay",
+        "translation": "bleiben",
+        "language": "English"
+    },
+    {
+        "vocabulary": "stop",
+        "translation": "stoppen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "study",
+        "translation": "studieren",
+        "language": "English"
+    },
+    {
+        "vocabulary": "talk",
+        "translation": "sprechen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "tell",
+        "translation": "erzählen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "think",
+        "translation": "denken",
+        "language": "English"
+    },
+    {
+        "vocabulary": "travel",
+        "translation": "reisen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "try",
+        "translation": "versuchen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "understand",
+        "translation": "verstehen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "use",
+        "translation": "benutzen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "wait",
+        "translation": "warten",
+        "language": "English"
+    },
+    {
+        "vocabulary": "want",
+        "translation": "wollen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "watch",
+        "translation": "sehen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "wear",
+        "translation": "tragen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "win",
+        "translation": "gewinnen",
+        "language": "English"
+    },
+    {
+        "vocabulary": "work",
+        "translation": "arbeiten",
+        "language": "English"
+    },
+    {
+        "vocabulary": "write",
+        "translation": "schreiben",
+        "language": "English"
+    }
 ]
