@@ -1,5 +1,5 @@
 import { PrismaClient } from '@prisma/client'
-import vocData from '../src/lib/vocData.json' assert  { type: "json" }
+import * as vocData from '../src/lib/vocData.json';
 
 const prisma = new PrismaClient()
 
